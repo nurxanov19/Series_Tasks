@@ -12,3 +12,4 @@ def elem_sum(n, k):
         print(f"{idx} inchi list elementlari yig'indisi: {sum(my_list)}")
 
 elem_sum(n, k)
+
